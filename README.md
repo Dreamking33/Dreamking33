@@ -92,7 +92,7 @@ I use this GitHub profile to document the projects I have completed, the tools I
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/b03d5e8e-cb94-4ce2-a406-451c9aaae24c/public_url">
-        <img src="assets/security-plus.png" width="120" alt="CompTIA Security+ Badge"/>
+        <img src="security-plus.png" width="120" alt="CompTIA Security+ Badge"/>
       </a>
       <br/>
       <strong>CompTIA Security+</strong>
@@ -101,7 +101,7 @@ I use this GitHub profile to document the projects I have completed, the tools I
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/6697b9da-7971-44bc-b3e8-3968905c5625/public_url">
-        <img src="assets/cysa-plus.png" width="120" alt="CompTIA CySA+ Badge"/>
+        <img src="cysa-plus.png" width="120" alt="CompTIA CySA+ Badge"/>
       </a>
       <br/>
       <strong>CompTIA CySA+</strong>
@@ -110,7 +110,7 @@ I use this GitHub profile to document the projects I have completed, the tools I
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/a9d7cd62-d7db-415d-9c8c-8a12ed526a6f/public_url">
-        <img src="assets/csap.png" width="120" alt="CompTIA CSAP Badge"/>
+        <img src="csap.png" width="120" alt="CompTIA CSAP Badge"/>
       </a>
       <br/>
       <strong>CompTIA CSAP</strong>
