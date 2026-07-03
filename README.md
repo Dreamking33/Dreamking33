@@ -88,13 +88,6 @@ I use this GitHub profile to document the projects I have completed, the tools I
 
 ## Certifications
 
-> Replace the placeholder links below with your official Credly or CompTIA verification links.  
-> For the badge images, upload your badge PNG files into an `assets` folder using these names:
->
-> `security-plus.png`  
-> `cysa-plus.png`  
-> `csap.png`
-
 <table>
   <tr>
     <td align="center">
